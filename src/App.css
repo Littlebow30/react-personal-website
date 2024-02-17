@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  background-image: url('./background/websiteBackground.png');
+  background-size: cover;
+}
+
+#root {
+  height: calc(100vh - 5rem);
+}

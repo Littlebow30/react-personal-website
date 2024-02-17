@@ -1,0 +1,30 @@
+.homePage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    height: 100%;
+    gap: 10rem;
+}
+
+.img > img {
+    border-radius: 50%;
+}
+
+.intro {
+    text-align: center;
+    line-height: 2.5rem;
+    font-size: 1.5rem;
+}
+
+/* SOCIAL ICONS */
+.socialIcons {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.socialIcons svg { 
+    color: navy;
+}
+/* END SOCIAL ICONS */
